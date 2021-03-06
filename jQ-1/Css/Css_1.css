@@ -1,0 +1,133 @@
+.list_block {
+    position: absolute;
+    width: 500px;
+    height: 347px;
+    background: radial-gradient(circle at 65% 25%, dimgray, black);
+    left: 450px;
+    top: 164px;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+
+/*Прямоугольник*/
+
+.png, .png_1 {
+    width: 20px;
+    height: 20px;
+}
+
+/*Картинка*/
+
+div.table {
+    position: absolute;
+    top: 228px;
+    left: 473px;
+}
+
+/*Расположение button и label*/
+
+div.colo {
+    width: 286px;
+    height: 27px;
+    background: red;
+}
+
+/*div в котор расположеные label*/
+
+.label {
+    background: radial-gradient(circle at 65% 15%, whitesmoke, burlywood);
+
+    width: 286px;
+}
+
+.rather {
+    position: relative;
+
+}
+
+.reder {
+    color: green;
+    font-size: 30px;
+}
+
+.furm {
+    text-shadow: 1px 1px 1px red,
+    2px 2px 1px red;
+}
+
+.peren {
+    text-decoration: line-through;
+    color: dimgray;
+}
+
+button {
+    background: radial-gradient(circle at 65% 15%, aqua, darkblue);
+}
+
+/*----------------------*/
+
+.abs {
+    position: absolute;
+    background: radial-gradient(circle at 65% 25%, dimgray, black);
+    text-align: center;
+    width: 500px;
+    height: 69px;
+    left: 450px;
+    top: 95px;
+}
+
+.Text_note {
+    position: absolute;
+    top: 20px;
+    left: 56px;
+    width: 331px;
+    background: radial-gradient(circle at 65% 15%, whitesmoke, burlywood);
+    height: 36px;
+}
+
+/*Текстовое поле для заметок*/
+
+#add_glob {
+    position: absolute;
+    top: 24px;
+    left: 392px;
+
+}
+
+/*Кнопка для добавления текста и div*/
+
+.div_filter {
+    position: absolute;
+    width: 500px;
+    height: 70px;
+    left: 450px;
+    top: 511px;
+    background: radial-gradient(circle at 65% 25%, dimgray, black);
+}
+
+.important {
+    position: absolute;
+    top: 4px;
+    left: 369px;
+}
+
+.completed {
+    position: absolute;
+    top: 35px;
+    left: 369px;
+}
+
+.all {
+    position: absolute;
+    top: 4px;
+    left: 447px
+}
+
+.Filter_input {
+    background: radial-gradient(circle at 65% 15%, whitesmoke, burlywood);
+    position: absolute;
+    top: 20px;
+    left: 33px;
+    height: 30px;
+    width: 331px;
+}
